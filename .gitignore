@@ -1,0 +1,6 @@
+/demo/*
+/learning_django/pytest_cache/*
+/learning_django/dev/__pycache__/*
+/learning_django/dev/migrations/__pycache__/*
+/learning_django/learning_django/__pycache__/*
+/learning_django/tests/__pycache__/*
